@@ -24,6 +24,9 @@ const Sidebar = () => {
       <SidebarBtn img={<Concats/>} title="Contacts" />
       <SidebarBtn img={<Agents/>} title="Agents" />
       <SidebarBtn img={<Articles/>} title="Articles" />
+      <div className="botton__border">
+
+      </div>
       <SidebarBtn img={<Settings/>} title="Settings" />
       <SidebarBtn img={<Subscription/>} title="Subscription" />
     </div>
