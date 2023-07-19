@@ -5,8 +5,11 @@ const Navbar = () => {
   return (
     <div className="Navbar">
       <div className="Navbar_left">
-        <h2>
+        {/* <h2>
         Tickets
+        </h2> */}
+        <h2>
+        Overview
         </h2>
       </div>
       <div className="Navbar_right">
